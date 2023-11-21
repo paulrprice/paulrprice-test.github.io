@@ -1,4 +1,3 @@
-# paulrprice.github.io
-**Paul R Price**  
-Climate change research: science and policy
-
+**Paul R Price**
+Researcher in climate change science and policy
+Ireland
