@@ -1,6 +1,6 @@
 # paulrprice.github.io
-GitHub Pages site
-
+Paul R Price
+Climate change research: science and policy
 title: [Paul R Price]
 description: [Climate change research: science and policy]
 theme: jekyll-theme-minimal
