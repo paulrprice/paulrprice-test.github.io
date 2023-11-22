@@ -1,6 +1,5 @@
 **Paul R Price**
-
-Researcher: climate change science and policy
+Climate change science and policy researcher
 Ireland
 
 remote_theme: pages-themes/minimal@v0.2.0
